@@ -26,3 +26,12 @@ This study was conducted utilizing Bangladesh Demographic and Health Survey (BDH
 |     F13         |     Body   Mass Index (BMI) for respondent                         | No                  | Yes                |     2065.63±369.25           |     2239.43±416.47     |
 
 A biomarker questionnaire was provided by the BDHS program to collect information regarding HTN and DM diagnosis and treatments. Following the World Health Organization (WHO) recommended measurement, these surveys generally gathered records of plasma glucose levels. Trained health technicians recorded DM data through HemoCue Glucose 201 Analyzer. To quantify blood glucose levels, BDHS applied WHO cut-off levels. The fasting blood glucose level was >= 7.0 mmol/L, indicating the existence of DM and categorized as ‘Yes’. Here, prediabetes (PBG: 6.0-6.9 mmol/L with no medical care) and diabetes-free (PBG: <6.0 mmol/L) varieties were incorporated according to the BDHS classification procedure and categorized as ‘No’. However, the different categorical and continuous independent variables are represented in the above table. The covariates comprised in the study are the age of the respondent (continuous), sex (male or female), educational level (no formal education, up to the primary, up to secondary, up to higher secondary), economic status (poorer, poor, middle, rich, richer), body mass index (continuous), occupation type (factory workers, beggars, boatmen, domestic servants, construction workers, brick breakers, road builders, rickshaw drivers, poultry raisers, cattle raisers, fishers, farmers, and agricultural workers, retired person, religious leader, housewife, businessman, family welfare visitor, teacher, accountant, lawyer, dentist, nurse, doctor, tailor, carpenter, unemployed/student, and landowner), eating habit (specified, anything), drinking coffee (no or yes), place of residence (urban or rural), division (Barisal, Chittagong, Dhaka, Khulna, Rajshahi, Rangpur, Sylhet, Mymensingh), an average of diastolic (continuous), and the average of systolic (continuous). 
+
+
+#### Written by-  <br>
+Md. Kamrul Hasan <br> 
+Erasmus Scholar on Medical Imaging and Application (MAIA) [2017-2019] [http://maiamaster.udg.edu/] <br> 
+Assistant Professor <br>
+Department of EEE, KUET, Khulna-9203, Bangladesh <br>
+For more details write me at kamruleeekuet@gmail.com <br>
+Google Scholar: https://scholar.google.com/citations?user=36WXELIAAAAJ&hl=en 
